@@ -7,7 +7,8 @@ The Application may collect certain information when you download and use it. Th
 	•	The pages of the Application that you visit, including the time and date of your visit
 	•	Time spent on the Application or its individual pages
 	•	The operating system used on your mobile device
-The Application does not collect precise location data of your mobile device.
+ 	The Application uses Firebase Authentication to allow users to create accounts and sign in using an email address, third-party providers such as Google. This information is securely stored by Firebase and used only for authentication purposes.
+	The Application does not collect precise location data of your mobile device.
 The Service Provider may use the information you provide to contact you occasionally with important notices or marketing promotions.
 For a better experience, while using the Application, the Service Provider may request certain personally identifiable information. This information will be retained and used in accordance with this privacy policy.
 
